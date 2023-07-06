@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ndamle2
-- 👀 I’m interested in machine learning and neural networks, web development, and education
-- 🌱 I’m currently learning data science and cognitive science at UC San Diego
-- 💞️ I’m looking to collaborate on internships or research projects
+- 👋 Hi, I’m Neil Damle
+- 👀 I’m interested in data science, machine learning and neural networks, and artificial intelligence literacy.
+- 🌱 I’m currently studying data science and cognitive science at UC San Diego
 - 📫 How to reach me: https://www.linkedin.com/in/neil-damle/
 
 <!---
