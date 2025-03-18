@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neil Damle
-- 👀 I’m interested in data science, machine learning and neural networks, and artificial intelligence literacy.
+- 👀 I’m interested in data science, applied machine learning, and artificial intelligence literacy
 - 🌱 I’m currently studying data science and cognitive science at UC San Diego
 - 📫 How to reach me: https://www.linkedin.com/in/neil-damle/
 
