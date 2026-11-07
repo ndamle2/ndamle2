@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neil Damle
 - 👀 I’m interested in data science, applied machine learning, and artificial intelligence literacy
-- 🌱 I’m currently statistics, data science, and machine learning at UC San Diego (then Stanford!)
+- 🌱 I’m currently statistics and data science at Stanford
 - 📫 How to reach me: https://www.linkedin.com/in/neil-damle/
 
 <!---
